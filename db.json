@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "this is another post",
+      "author": "me",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "william",
+      "email": "william@william.com",
+      "id": 1
+    },
+    {
+      "name": "abc",
+      "email": "efg",
+      "id": 2
+    },
+    {
+      "name": "user3",
+      "email": "email3",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
